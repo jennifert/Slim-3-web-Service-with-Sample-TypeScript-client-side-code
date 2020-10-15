@@ -1,2 +1,6 @@
 # slim_yaml_service_client_ts
-A web service built using slim 3 that uses yaml parser to search tags. Examle to retrieve is shown via typescript. This was created to searh jekyll blog _post folder.
+A web service built using slim 3. 
+
+It uses the  that uses "mnapoli/front-yaml" composer library to search in Yaml tags in a folder _post.
+
+This was an example built to see if it can be used to create a new site but keep the post directory and work around it.
