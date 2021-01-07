@@ -6,6 +6,6 @@ This was an a quick prototype built to see if it can be used as either a quick w
 Decided not to go that route, but thought would upload here if someone else can have an idea for it.
 
 Contents:
-_posts/ : folder that contains the jekyll .md or .html files
-api/: Slim 3 service
-Fetch_lite-accessible.ts: typescript code used in front end to pull posts in
+- _posts/ : folder that contains the jekyll .md or .html files
+- api/: Slim 3 service
+- Fetch_lite-accessible.ts: typescript code used in front end to pull posts in
