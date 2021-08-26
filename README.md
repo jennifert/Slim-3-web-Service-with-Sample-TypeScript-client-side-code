@@ -1,4 +1,4 @@
-# Slim 3 web Service with Sample TypeScript client side code
+# Sample Jekyll Web Service - PHP Search Posts
 A web service built using slim 3 and the "mnapoli/front-yaml" composer library to search in Yaml tags in a folder _post.
 
 This was built as a quick prototype built to see if it used as a part of the site if I ended up redoing in PHP. Decided not to go that route, but thought someone else may have a use for it.
