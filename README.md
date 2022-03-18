@@ -3,7 +3,7 @@ A web service built using slim 3 and the "mnapoli/front-yaml" composer library t
 
 This was built as a quick prototype built to see if it used as a part of the site if I ended up redoing in PHP. Decided not to go that route, but thought someone else may have a use for it.
 
-Also included is the typescript code that was pulling the serice in. It has some basic accessibility, but not fully tested.
+Also included is the typescript code that was pulling the service in. It has some basic accessibility, but not fully tested.
 
 Contents:
 - _posts/ : folder that contains the jekyll .md or .html files
